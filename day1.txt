@@ -11,16 +11,16 @@ Interpreted: Code is executed line by line, making debugging easier.
 but what makes python so special?
 
 1 solves complex problems in lesser or fewer lines of code
-e.g. str[0:3],to return first characters of a string
+e.g. str[0:3],to returns first 3 characters of a string
 
 2 python is a multipurpose programming language
 It is used for:
 
 - Data Analysis , AI/ML ,Automation ,Web Apps ,Desktop Apps ,Mobile Apps ,testing ,hacking
 
-3 Python is a high level language(No need to do need memory management (Automatically done by python))
+3 Python is a high level language(No need to do memory management (Automatically done by python))
 
-4 Python has huge community ,so if you ever feeling stuck in code there is someone out there to help you
+4 Python has huge community ,so if you ever feeling stuck in your code there is someone out there to help you
 
 5 Python is a cross-platform programming language, which means Python code can run on multiple operating 
 systems such as Windows, Linux, and macOS without requiring major changes.
