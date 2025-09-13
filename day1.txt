@@ -1,0 +1,29 @@
+What is Python?
+Python is one of the fastest-growing programming languages, widely used by software engineers, data analysts, accountants, scientists, network engineers, and even beginners, including kids.
+
+Key features of Python:
+
+General-purpose: Can be used to build a wide range of applications, from web development to AI.
+High-level: Easy to read and write, close to human language.
+Dynamically typed: No need to explicitly declare data types.
+Interpreted: Code is executed line by line, making debugging easier.
+
+but what makes python so special?
+
+1 solves complex problems in lesser or fewer lines of code
+e.g. str[0:3],to return first characters of a string
+
+2 python is a multipurpose programming language
+It is used for:
+
+- Data Analysis , AI/ML ,Automation ,Web Apps ,Desktop Apps ,Mobile Apps ,testing ,hacking
+
+3 Python is a high level language(No need to do need memory management (Automatically done by python))
+
+4 Python has huge community ,so if you ever feeling stuck in code there is someone out there to help you
+
+5 Python is a cross-platform programming language, which means Python code can run on multiple operating 
+systems such as Windows, Linux, and macOS without requiring major changes.
+
+6 Python has a large ecosystem of libraries and frameworks, which makes it suitable for diverse domains 
+such as web development, data science, machine learning, automation, and more.
