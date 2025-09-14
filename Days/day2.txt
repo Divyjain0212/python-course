@@ -76,6 +76,32 @@ Default end = newline (\n)
 You could also redirect with >>:
 print >> sys.stderr, "Error message"
 
+#IDE Features
+1 Linting: Analyzing our code for potential errors
+2 Debugging: Finding and fixing bugs
+3 Autocompletion: Helps us write our code faster by autocompletion
+4 code formatting: Making our code look clean and readable
+5 unit testing: writing bunch of tests for our code
+6 code snippets: reusable code block that we can quickly generate
+
+# Extensions to install in vscode to convert into a powerful IDE:
+- python
+- pylance
+- autopep8
+
+# Formatting python code:
+
+PEPs(Python Enhaancement Proposals)
+ python peps:
+    - pep8 is the most famous and widely used pep for formatting python code
+
+# shortcut:
+ctrl+` for opening terminal
+ctrl+shift+p for opening command palette
+
+type format document and then install autopep8 extension and also enable format on save in command palette
+
+
 
 
 
