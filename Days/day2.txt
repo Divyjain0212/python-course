@@ -1,0 +1,81 @@
+python version : 2 and 3
+currently in my journey i am learning python3 
+
+Installed python 3.13.7 from python.org
+Add path.exe checkbox while doing setup of installation of python
+
+In cmd run >>python3
+this will start python in terminal itself
+
+Now you can run commands such as
+2+2
+>4
+2>1
+>True
+2>
+Syntax Error:invalid syntax(It is an kind of error which is due to bad syntax or bad grammar in the code)
+
+This all are expression(An expression is a piece of code that produces a value)
+
+
+code Editors
+
+Tools ------- IDE(Integrated Development Environment)
+|             e.g. Pycharm
+|
+|
+|
+|
+Editors
+e.g. Sublime,vscode,atom
+
+An IDE is basically a code editor with some
+fancy features like:
+1 Autocompletion
+2 Debugging
+3 Testing
+
+# first-program:
+In our first program, we have use python built-in
+function called print().
+So ,in python we have various function for performing
+various kinds of tasks.
+
+print() syntax:;
+print(*objects,sep='',end='\n',file=sys.stdout(),flush=False)
+
+*objects → One or more things you want to print.
+e.g. print("Hello", "World")   # Hello World
+
+sep → Separator between objects (default is space ' ').
+print("A", "B", "C", sep="-")   # A-B-C
+
+end → What to print at the end (default is newline '\n')
+print("Hello", end=" ")  
+print("World")            # Output: Hello World
+
+file → Where to print (default is sys.stdout → console).
+with open("output.txt", "w") as f:
+    print("Hello File", file=f)
+
+flush → Whether to force flushing the output buffer (default False).
+print("Hello", flush=True)
+
+🐍 Python 2 (old, now outdated)
+
+In Python 2, print was a statement, not a function.
+So you could write:
+
+print "Hello, World!"
+print "A", "B", "C"
+
+Default separator = space ( )
+
+Default end = newline (\n)
+
+You could also redirect with >>:
+print >> sys.stderr, "Error message"
+
+
+
+
